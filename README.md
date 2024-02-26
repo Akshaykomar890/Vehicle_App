@@ -13,6 +13,7 @@ Clients can view vehicle information by entering the vehicle number, while admin
 The project utilizes Firebase for database operations including uploading, updating, and deleting vehicle information.
 
 Features:-
+
 Client Interface:View vehicle information by entering the vehicle number.
 
 
