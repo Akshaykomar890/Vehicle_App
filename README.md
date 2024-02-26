@@ -30,8 +30,7 @@ Kotlin
 Firebase (Firestore)
 
 
-Setup Instructions:-
-Clone the repository.
-Open the project in Android Studio.
-Connect the project to your Firebase project.
-Build and run the application on an Android emulator or physical device.
+
+Screenshots:-
+
+Adminpanel:= WhatsApp Image 2024-02-26 at 10.01.52 AM (1)
