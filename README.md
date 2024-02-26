@@ -12,7 +12,7 @@ Clients can view vehicle information by entering the vehicle number, while admin
 
 The project utilizes Firebase for database operations including uploading, updating, and deleting vehicle information.
 
-Features
+Features:-
 Client Interface:View vehicle information by entering the vehicle number.
 
 
@@ -24,12 +24,12 @@ Delete vehicle information.
 Upload new vehicle information.
 
 
-Technologies Used:
+Technologies Used:-
 Kotlin
 Firebase (Firestore)
 
 
-Setup Instructions
+Setup Instructions:-
 Clone the repository.
 Open the project in Android Studio.
 Connect the project to your Firebase project.
