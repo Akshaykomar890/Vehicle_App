@@ -2,7 +2,8 @@
 Vehicle App 
 
 
-Description
+Description:-
+
 This is a vehicle management application developed using Kotlin programming language. 
 The application offers two interfaces: 
 one for clients and another for administrators. 
