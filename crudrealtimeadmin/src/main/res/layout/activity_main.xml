@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/white">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="700dp"
+            android:orientation="vertical"
+            android:gravity="center">
+            <ImageView
+                android:layout_width="350dp"
+                android:layout_height="500dp"
+                android:src="@drawable/uplaod"/>
+        </LinearLayout>
+    <Button
+        android:id="@+id/UploadBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Upload"
+        android:textSize="15sp"
+        android:layout_marginTop="600dp"
+        android:layout_marginStart="20dp"/>
+    <Button
+        android:id="@+id/UpdateBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Update"
+        android:textSize="15sp"
+        android:layout_marginTop="600dp"
+        android:layout_centerHorizontal="true"/>
+    <Button
+        android:id="@+id/DeleteBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete"
+        android:textSize="15sp"
+        android:layout_marginTop="600dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="20dp"/>
+
+    </RelativeLayout>
+

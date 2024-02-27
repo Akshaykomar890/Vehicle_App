@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CRUD Realtime Admin</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+</resources>
